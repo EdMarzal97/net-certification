@@ -1,0 +1,15 @@
+D:\Personal Projects\csharpplayground\bin\Debug\net7.0\csharpplayground.exe
+d:\Personal Projects\csharpplayground\bin\Debug\net7.0\csharpplayground.deps.json
+d:\Personal Projects\csharpplayground\bin\Debug\net7.0\csharpplayground.runtimeconfig.json
+D:\Personal Projects\csharpplayground\bin\Debug\net7.0\csharpplayground.dll
+D:\Personal Projects\csharpplayground\bin\Debug\net7.0\csharpplayground.pdb
+D:\Personal Projects\csharpplayground\obj\Debug\net7.0\csharpplayground.csproj.AssemblyReference.cache
+D:\Personal Projects\csharpplayground\obj\Debug\net7.0\csharpplayground.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\csharpplayground\obj\Debug\net7.0\csharpplayground.AssemblyInfoInputs.cache
+D:\Personal Projects\csharpplayground\obj\Debug\net7.0\csharpplayground.AssemblyInfo.cs
+D:\Personal Projects\csharpplayground\obj\Debug\net7.0\csharpplayground.csproj.CoreCompileInputs.cache
+D:\Personal Projects\csharpplayground\obj\Debug\net7.0\csharpplayground.dll
+D:\Personal Projects\csharpplayground\obj\Debug\net7.0\refint\csharpplayground.dll
+D:\Personal Projects\csharpplayground\obj\Debug\net7.0\csharpplayground.pdb
+d:\Personal Projects\csharpplayground\obj\Debug\net7.0\csharpplayground.genruntimeconfig.cache
+d:\Personal Projects\csharpplayground\obj\Debug\net7.0\ref\csharpplayground.dll

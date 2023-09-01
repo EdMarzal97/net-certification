@@ -22,3 +22,7 @@ Console.WriteLine(1 != 2);
 
 string myValue = "a";
 Console.WriteLine(myValue != "a"); */
+
+int saleAmount = 600;
+int discount = saleAmount > 1000 ? 100 : 50;
+Console.WriteLine($"Discount is: {discount}");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Personal Projects\\csharpplayground\\csharpplayground.csproj": {}
+    "D:\\Personal Projects\\csharpplayground\\csharpplayground.csproj": {}
   },
   "projects": {
-    "d:\\Personal Projects\\csharpplayground\\csharpplayground.csproj": {
+    "D:\\Personal Projects\\csharpplayground\\csharpplayground.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Personal Projects\\csharpplayground\\csharpplayground.csproj",
+        "projectUniqueName": "D:\\Personal Projects\\csharpplayground\\csharpplayground.csproj",
         "projectName": "csharpplayground",
-        "projectPath": "d:\\Personal Projects\\csharpplayground\\csharpplayground.csproj",
+        "projectPath": "D:\\Personal Projects\\csharpplayground\\csharpplayground.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "d:\\Personal Projects\\csharpplayground\\obj\\",
+        "outputPath": "D:\\Personal Projects\\csharpplayground\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
